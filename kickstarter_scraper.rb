@@ -19,4 +19,4 @@ create_project_hash
 #description
 #project.css("p.bbcard_blurb").text
 #location
-#project.css("li.span_location")
+#project.css("li.location-name").text
